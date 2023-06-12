@@ -1,1 +1,1 @@
-rm *.pdf
+rm *.pdf *.png
