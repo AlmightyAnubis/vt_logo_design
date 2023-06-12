@@ -22,13 +22,13 @@
    inkscape:export-ydpi="162">
   <sodipodi:namedview
      units="mm"
-     inkscape:current-layer="Collection"
+     inkscape:current-layer="svg2"
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
      inkscape:window-x="-8"
-     inkscape:cy="1252.6256"
-     inkscape:cx="3880.846"
-     inkscape:zoom="0.125"
+     inkscape:cy="1801.6383"
+     inkscape:cx="-1464.2892"
+     inkscape:zoom="0.0625"
      showgrid="false"
      id="namedview4"
      inkscape:window-height="1017"
@@ -78,7 +78,8 @@
     </linearGradient>
   </defs>
   <g
-     id="Collection">
+     id="Collection"
+     transform="translate(-133.34924,2450.1529)">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect1916"
@@ -1800,7 +1801,7 @@
   </g>
   <g
      id="PROCESS_04"
-     transform="translate(-825.09969,19.513877)">
+     transform="translate(-825.09969,-445.88993)">
     <rect
        ry="208.08061"
        y="-2103.366"
@@ -2111,7 +2112,7 @@
   </g>
   <g
      id="PROCESS_03"
-     transform="translate(-721.09969,-1756.1484)">
+     transform="translate(-721.09969,-2079.2802)">
     <rect
        ry="208.08061"
        y="-2051.6738"
@@ -2404,7 +2405,7 @@
   </g>
   <g
      id="PROCESS_02"
-     transform="translate(-803.60639,-3725.7336)"
+     transform="translate(-803.60639,-3906.5944)"
      style="display:inline">
     <rect
        ry="208.08061"
@@ -2582,7 +2583,7 @@
   </g>
   <g
      id="PROCESS_01"
-     transform="translate(-1025.2458,-5439.5625)"
+     transform="translate(-1025.2458,-5478.1514)"
      style="display:inline">
     <rect
        ry="0"
