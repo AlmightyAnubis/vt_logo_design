@@ -12,9 +12,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Logo_collection.svg"
-   viewBox="0 0 5794.2151 2166.5863"
-   height="573.24261mm"
-   width="1533.0527mm"
+   viewBox="0 0 5990.6084 2675.6921"
+   height="707.94354mm"
+   width="1585.0151mm"
    id="svg2"
    version="1.1"
    inkscape:export-filename="D:\Flori\Offiziell\OvGU\FaRa\Logo.png"
@@ -22,13 +22,13 @@
    inkscape:export-ydpi="162">
   <sodipodi:namedview
      units="mm"
-     inkscape:current-layer="BSYT_03"
+     inkscape:current-layer="svg2"
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
      inkscape:window-x="1912"
-     inkscape:cy="-2569.0799"
-     inkscape:cx="3595.5259"
-     inkscape:zoom="0.5"
+     inkscape:cy="8923.6954"
+     inkscape:cx="4217.1734"
+     inkscape:zoom="0.044194174"
      showgrid="false"
      id="namedview4"
      inkscape:window-height="1017"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,7 +79,7 @@
   </defs>
   <g
      id="Collection"
-     transform="translate(-133.34924,2450.1529)">
+     transform="translate(45.254837,265.86108)">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect1916"
@@ -1801,7 +1801,8 @@
   </g>
   <g
      id="PROCESS_04"
-     transform="translate(-825.09969,-445.88993)">
+     transform="translate(-646.49561,-2630.1819)"
+     style="display:inline">
     <rect
        ry="208.08061"
        y="-2103.366"
@@ -2112,7 +2113,8 @@
   </g>
   <g
      id="PROCESS_03"
-     transform="translate(-721.09969,-2079.2802)">
+     transform="translate(-542.49561,-4263.5722)"
+     style="display:inline">
     <rect
        ry="208.08061"
        y="-2051.6738"
@@ -2405,7 +2407,7 @@
   </g>
   <g
      id="PROCESS_02"
-     transform="translate(-803.60639,-3906.5944)"
+     transform="translate(-625.00231,-6090.8864)"
      style="display:inline">
     <rect
        ry="208.08061"
@@ -2583,7 +2585,7 @@
   </g>
   <g
      id="PROCESS_01"
-     transform="translate(-1025.2458,-5478.1514)"
+     transform="translate(-846.64172,-7662.4434)"
      style="display:inline">
     <rect
        ry="0"
@@ -2703,8 +2705,8 @@
   </g>
   <g
      id="Logo"
-     transform="translate(-302.29747,-4557.8805)"
-     style="fill:#941680;fill-opacity:1">
+     transform="translate(-123.69339,-6742.1725)"
+     style="display:inline;fill:#941680;fill-opacity:1">
     <rect
        ry="0"
        y="-4318.1694"

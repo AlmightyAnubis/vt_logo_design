@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="8316.9941mm"
+   height="2982.613mm"
+   viewBox="0 0 8316.9941 2982.613"
    version="1.1"
    id="svg1604"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.030935922"
-     inkscape:cx="10213.332"
-     inkscape:cy="7187.6576"
+     inkscape:zoom="0.021875"
+     inkscape:cx="15703.717"
+     inkscape:cy="9243.5715"
      inkscape:document-units="mm"
      inkscape:current-layer="g10136"
      showgrid="false"
@@ -35,7 +35,11 @@
      inkscape:window-height="1017"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata1601">
     <rdf:RDF>
@@ -44,14 +48,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(2773.7519,1348.8856)">
     <g
        transform="matrix(0.26458333,0,0,0.26458333,-4081.5986,-1355.032)"
        id="STEP-01">
