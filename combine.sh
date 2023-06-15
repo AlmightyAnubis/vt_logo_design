@@ -12,7 +12,7 @@ pdfunite Buffer.pdf Collection.pdf Presentation.pdf
 pdfunite Presentation.pdf Buffer.pdf
 
 
-for id in "Benz_Crystal" "Reactors" "Heat_Ex" "Hexagon"
+for id in "Benz_Crystal" "Reactors" "Heat_Ex" "Flower_Power" "Hexagon"
 do
 pdfunite Buffer.pdf $id.pdf Presentation.pdf
 pdfunite Presentation.pdf Buffer.pdf

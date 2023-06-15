@@ -1,6 +1,9 @@
 #inkscape Logo_collection.svg --export-id="VST_01" --export-filename="VST_01.pdf" --export-type="pdf"
 #inkscape Logo_collection.svg --export-id="EPT_02" --export-filename="EPT_02.pdf" --export-type="pdf"
 #inkscape Logo_collection.svg --export-id="EPT_02" --export-filename="EPT_02.pdf" --export-type="pdf"
+
+
+
 if ((1<0))
 then
 ./clear.sh
@@ -51,8 +54,8 @@ then
 inkscape Logo_Ideas.svg --export-id="Benz_Crystal" --export-filename="Subsymbole/Benz_Crystal.pdf" --export-type="pdf" 2> /dev/null
 inkscape Logo_Ideas.svg --export-id="Benz_Crystal" --export-filename="Subsymbole/Benz_Crystal.png" --export-type="png" 2> /dev/null
 
-inkscape Logo_Ideas.svg --export-id="Logo5" --export-filename="Subsymbole/Heat_Ex.pdf" --export-type="pdf" 2> /dev/null
-inkscape Logo_Ideas.svg --export-id="Logo5" --export-filename="Subsymbole/Heat_Ex.png" --export-type="png" 2> /dev/null
+inkscape Logo_Ideas.svg --export-id="Logo_05" --export-filename="Subsymbole/Heat_Ex.pdf" --export-type="pdf" 2> /dev/null
+inkscape Logo_Ideas.svg --export-id="Logo_05" --export-filename="Subsymbole/Heat_Ex.png" --export-type="png" 2> /dev/null
 
 inkscape Logo_Ideas.svg --export-id="Reactors" --export-filename="Subsymbole/Reactors.pdf" --export-type="pdf" 2> /dev/null
 inkscape Logo_Ideas.svg --export-id="Reactors" --export-filename="Subsymbole/Reactors.png" --export-type="png" 2> /dev/null
@@ -60,10 +63,13 @@ inkscape Logo_Ideas.svg --export-id="Reactors" --export-filename="Subsymbole/Rea
 inkscape Logo_Ideas.svg --export-id="Hexagon" --export-filename="Subsymbole/Hexagon.pdf" --export-type="pdf" 2> /dev/null
 inkscape Logo_Ideas.svg --export-id="Hexagon" --export-filename="Subsymbole/Hexagon.png" --export-type="png" 2> /dev/null
 
-for id in 01 02 03 04 05 06 07 08 09 10 11
+inkscape Logo_Ideas.svg --export-id="Flower_Power" --export-filename="Subsymbole/Flower_Power.pdf" --export-type="pdf" 2> /dev/null
+inkscape Logo_Ideas.svg --export-id="Flower_Power" --export-filename="Subsymbole/Flower_Power.png" --export-type="png" 2> /dev/null
+
+for id in 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15
 do
-  inkscape Logo_Ideas.svg --export-id="Logo$id" --export-filename="Subsymbole/Logo_$id.pdf" --export-type="pdf" 2> /dev/null
-  inkscape Logo_Ideas.svg --export-id="Logo$id" --export-filename="Subsymbole/Logo_$id.png" --export-type="png" 2> /dev/null
+  inkscape Logo_Ideas.svg --export-id="Logo_$id" --export-filename="Subsymbole/Logo_$id.pdf" --export-type="pdf" 2> /dev/null
+  inkscape Logo_Ideas.svg --export-id="Logo_$id" --export-filename="Subsymbole/Logo_$id.png" --export-type="png" 2> /dev/null
 done
 
 echo "Created Sublogos of Logo Ideas"
