@@ -2,7 +2,7 @@ cd Subsymbole
 pdfunite Logo.pdf Presentation.pdf
 pdfunite Presentation.pdf Buffer.pdf
 
-for id in 01 02 03 04
+for id in 01 02 03 04 05 06 07
 do
 pdfunite Buffer.pdf PROCESS_$id.pdf Presentation.pdf
 pdfunite Presentation.pdf Buffer.pdf

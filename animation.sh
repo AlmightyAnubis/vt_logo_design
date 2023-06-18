@@ -1,4 +1,4 @@
-if (( 1 < 0 ))
+if (( 1 < 2 ))
 then
 for id in 01 02 03 04 05 06 07 08 09 10 11 12 13
 do
@@ -15,10 +15,10 @@ done
 fi
 
 cd Animation
-# convert -delay 10 -loop 0 $(for i in 01 02 03 04 05 06 07 09 09 10 11 12 13; do echo STEP_SMALL-${i}.png; done) Assamble.gif
-# convert -delay 8 -loop 0 $(for i in 13 12 11 10 09 08 07 06 05 04 03 02 01; do echo STEP_SMALL-${i}.png; done) Rotation.gif
-# convert -delay 8 -loop 0 $(for i in 13 12 11 10 09 08 07 06 05 04 03 02 01; do echo STEP_SMALL_D-${i}.png; done) Steady.gif
-# convert -delay 8 -loop 0 $(for i in 01 02 03 04 05 06 07 08 09 10 11 12; do echo SELECT_${i}.png; done) Zoom.gif
+ convert -delay 10 -loop 0 $(for i in 01 02 03 04 05 06 07 09 09 10 11 12 13; do echo STEP_SMALL-${i}.png; done) Assamble.gif
+ convert -delay 8 -loop 0 $(for i in 13 12 11 10 09 08 07 06 05 04 03 02 01; do echo STEP_SMALL-${i}.png; done) Rotation.gif
+ convert -delay 8 -loop 0 $(for i in 18 17 16 15 14 13 12 11 10 09 08 07 06 05 04 03 02 01; do echo STEP_SMALL_D-${i}.png; done) Steady.gif
+ convert -delay 8 -loop 0 $(for i in 01 02 03 04 05 06 07 08 09 10 11 12; do echo SELECT-${i}.png; done) Zoom.gif
 
 rm Rotation.mp4
 rm Steady.mp4

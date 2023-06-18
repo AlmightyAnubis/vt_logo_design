@@ -25,9 +25,9 @@
      inkscape:current-layer="svg2"
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
-     inkscape:window-x="1912"
-     inkscape:cy="8923.6954"
-     inkscape:cx="4217.1734"
+     inkscape:window-x="-8"
+     inkscape:cy="10916.462"
+     inkscape:cx="-504.29265"
      inkscape:zoom="0.044194174"
      showgrid="false"
      id="namedview4"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1800,8 +1800,8 @@
     </g>
   </g>
   <g
-     id="PROCESS_04"
-     transform="translate(-646.49561,-2630.1819)"
+     id="PROCESS_07"
+     transform="translate(3257.5044,-5654.1819)"
      style="display:inline">
     <rect
        ry="208.08061"
@@ -2112,8 +2112,8 @@
     </g>
   </g>
   <g
-     id="PROCESS_03"
-     transform="translate(-542.49561,-4263.5722)"
+     id="PROCESS_06"
+     transform="translate(3361.5044,-7287.5722)"
      style="display:inline">
     <rect
        ry="208.08061"
@@ -2406,8 +2406,8 @@
     </g>
   </g>
   <g
-     id="PROCESS_02"
-     transform="translate(-625.00231,-6090.8864)"
+     id="PROCESS_05"
+     transform="translate(3278.9977,-9114.8864)"
      style="display:inline">
     <rect
        ry="208.08061"
@@ -2584,8 +2584,8 @@
     </g>
   </g>
   <g
-     id="PROCESS_01"
-     transform="translate(-846.64172,-7662.4434)"
+     id="PROCESS_04"
+     transform="translate(-1061.2959,-5570.9164)"
      style="display:inline">
     <rect
        ry="0"
@@ -2705,7 +2705,7 @@
   </g>
   <g
      id="Logo"
-     transform="translate(-123.69339,-6742.1725)"
+     transform="translate(-4539.6934,-6854.1725)"
      style="display:inline;fill:#941680;fill-opacity:1">
     <rect
        ry="0"
@@ -2731,5 +2731,197 @@
          x="1518.647"
          sodipodi:role="line"
          id="tspan2140">Verfahrens- und Systemtechnik</tspan></text>
+  </g>
+  <g
+     id="PROCESS_03"
+     transform="translate(-1061.2959,-6742.6086)"
+     style="display:inline">
+    <rect
+       ry="0"
+       y="-1816.2007"
+       x="846.64166"
+       height="1171.6921"
+       width="2789.9824"
+       id="rect1916-1-9-1-1-3"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25800037;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <g
+       id="g1350-7"
+       transform="translate(0,-464.48775)">
+      <path
+         inkscape:export-ydpi="162.80484"
+         inkscape:export-xdpi="162.80484"
+         inkscape:connector-curvature="0"
+         id="path1027-7-4-6-5-8-2-6"
+         d="m 943.00486,-554.88086 c -7.6154,-1.4062 -10.8005,-2.8828 -13.9594,-6.4713 -3.6099,-4.1013 -4.854,-7.9004 -4.7953,-14.6463 0.081,-9.2742 5.1261,-21.0053 14.3831,-33.4417 5.1537,-6.9237 15.9528,-18.3415 22.50193,-23.7913 l 3.777,-3.143 -4.53273,1.544 c -23.0892,7.8655 -43.9949,29.4934 -50.6151,52.3635 -1.2202,4.2159 -1.3246,4.3388 -2.3923,2.8145 -2.4344,-3.4754 -5.5073,-11.4556 -6.7243,-17.4617 -2.6144,-12.9024 -0.055,-25.066 8.042,-38.2 5.2731,-8.5549 19.7324,-23.3299 28.2717,-28.8891 24.92393,-16.2258 60.01363,-24.7253 91.18944,-22.0882 5.9359,0.5021 11.9609,1.1596 13.3885,1.461 l 2.596,0.5481 -3.8482,2.8247 c -2.1162,1.5536 -6.514,5.6576 -9.7724,9.1201 -9.1508,9.724 -13.4376,17.8888 -15.7189,29.9388 -5.3381,28.1993 -10.5897,44.115 -19.69051,59.6749 -5.4166,9.2614 -16.2041,20.0175 -23.7721,23.7034 -9.1741,4.4681 -18.87353,5.8854 -28.32843,4.1396 z"
+         style="fill:#941680;fill-opacity:1;stroke:#941680;stroke-width:0.75542152;stroke-opacity:1" />
+      <text
+         id="text1288-7"
+         y="-565.38171"
+         x="1102.1719"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:153.89186096px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.06105185"
+         xml:space="preserve"><tspan
+           style="stroke-width:2.06105185"
+           y="-565.38171"
+           x="1102.1719"
+           id="tspan1286-8"
+           sodipodi:role="line">Mechanische -/Bioverfahrenstechnik</tspan></text>
+      <path
+         inkscape:export-ydpi="162.80484"
+         inkscape:export-xdpi="162.80484"
+         inkscape:connector-curvature="0"
+         id="path989-5-4-9-6-6-6-8"
+         d="m 962.81781,-966.94663 c 6.0175,-0.21169 10.2125,6.485 13.6577,10.82043 10.5692,13.30051 14.5821,30.84865 13.8092,47.28165 -0.2646,5.6551 1.2703,12.62531 7.0056,13.6744 7.10169,-0.4734 4.89569,-8.8058 5.45519,-13.6407 0.8273,-8.7452 9.0959,-2.0464 10.6293,3.2978 2.4971,8.70271 7.8044,16.6286 8.0676,25.8937 1.2489,16.9098 -7.6329,32.5886 -19.7589,44.8321 -4.94349,4.9915 -17.09129,5.3503 -12.17429,-2.8652 3.1909,-7.7975 -0.2531,-16.7634 -6.8428,-21.9048 -7.9712,-6.2194 -19.5325,-7.8478 -25.12399,-16.6014 -2.873,-4.498 -1.2674,-19.2023 -9.9214,-14.5115 -4.7534,4.5911 -4.4036,11.8756 -5.3822,17.94411 -0.7941,15.1191 6.0268,30.51 18.16879,39.8152 3.125,2.3949 -1.53539,4.2952 -4.74149,3.20799 -27.2693,-9.2476 -42.1198,-43.98649 -26.6296,-68.282 10.1499,-15.91959 28.1924,-26.3243 33.90499,-45.03995 2.3834,-7.8078 -0.032,-16.01793 -2.81459,-23.38243 0.93709,-0.3391 1.83139,-0.509 2.69089,-0.5394 z"
+         style="fill:#941680;fill-opacity:1;stroke:none;stroke-width:2.8764472;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1284-2"
+         y="-843.05328"
+         x="1109.9867"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:153.89186096px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.06105185"
+         xml:space="preserve"><tspan
+           style="stroke-width:2.06105185"
+           y="-843.05328"
+           x="1109.9867"
+           id="tspan1282-4"
+           sodipodi:role="line">Thermische Verfahrenstechnik</tspan></text>
+      <text
+         id="text1280-7"
+         y="-1120.8007"
+         x="1100.2721"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:153.89186096px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.06105185"
+         xml:space="preserve"><tspan
+           style="stroke-width:2.06105185"
+           y="-1120.8007"
+           x="1100.2721"
+           id="tspan1278-6"
+           sodipodi:role="line">Chemische Verfahrenstechnik</tspan></text>
+      <g
+         transform="translate(-1.204e-4,759.7488)"
+         id="g1336-5">
+        <path
+           style="opacity:1;fill:#941680;fill-opacity:1;stroke:#941680;stroke-width:14.38223648;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 965.2096,-1998.0595 c 12.1052,29.1048 37.8488,51.6095 43.9081,83.351 3.3746,17.6792 -2.3199,39.2147 -19.7351,47.4891 -22.8925,10.8769 -50.4802,2.4411 -61.6126,-20.7135 -6.4916,-13.502 -5.8518,-30.0518 -1.0315,-43.2807 8.8756,-24.3584 27.5731,-43.4789 38.4711,-66.8459 z"
+           id="path1195-6-8-19-1-8-0-0"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="162.80484"
+           inkscape:export-ydpi="162.80484" />
+        <path
+           style="opacity:1;fill:none;stroke:#ffffff;stroke-width:14.38223648;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 943.9132,-1907.2057 c 2.4571,12.2124 9.6651,19.3935 19.5768,20.0853"
+           id="path1197-5-7-07-7-1-9-8"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="162.80484"
+           inkscape:export-ydpi="162.80484" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="PROCESS_02"
+     transform="translate(-1061.2959,-7914.3009)"
+     style="display:inline">
+    <rect
+       ry="0"
+       y="-1816.2007"
+       x="846.64166"
+       height="1171.6921"
+       width="2789.9824"
+       id="rect1916-1-9-1-1-4"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25800037;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <g
+       id="g1350-9"
+       transform="translate(0,-464.48775)">
+      <path
+         inkscape:export-ydpi="162.80484"
+         inkscape:export-xdpi="162.80484"
+         inkscape:connector-curvature="0"
+         id="path989-5-4-9-6-6-6-5"
+         d="m 962.81781,-966.94663 c 6.0175,-0.21169 10.2125,6.485 13.6577,10.82043 10.5692,13.30051 14.5821,30.84865 13.8092,47.28165 -0.2646,5.6551 1.2703,12.62531 7.0056,13.6744 7.10169,-0.4734 4.89569,-8.8058 5.45519,-13.6407 0.8273,-8.7452 9.0959,-2.0464 10.6293,3.2978 2.4971,8.70271 7.8044,16.6286 8.0676,25.8937 1.2489,16.9098 -7.6329,32.5886 -19.7589,44.8321 -4.94349,4.9915 -17.09129,5.3503 -12.17429,-2.8652 3.1909,-7.7975 -0.2531,-16.7634 -6.8428,-21.9048 -7.9712,-6.2194 -19.5325,-7.8478 -25.12399,-16.6014 -2.873,-4.498 -1.2674,-19.2023 -9.9214,-14.5115 -4.7534,4.5911 -4.4036,11.8756 -5.3822,17.94411 -0.7941,15.1191 6.0268,30.51 18.16879,39.8152 3.125,2.3949 -1.53539,4.2952 -4.74149,3.20799 -27.2693,-9.2476 -42.1198,-43.98649 -26.6296,-68.282 10.1499,-15.91959 28.1924,-26.3243 33.90499,-45.03995 2.3834,-7.8078 -0.032,-16.01793 -2.81459,-23.38243 0.93709,-0.3391 1.83139,-0.509 2.69089,-0.5394 z"
+         style="fill:#941680;fill-opacity:1;stroke:none;stroke-width:2.8764472;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1284-8"
+         y="-843.05328"
+         x="1109.9867"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:153.89186096px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.06105185"
+         xml:space="preserve"><tspan
+           style="stroke-width:2.06105185"
+           y="-843.05328"
+           x="1109.9867"
+           id="tspan1282-9"
+           sodipodi:role="line">Thermische Verfahrenstechnik</tspan></text>
+      <text
+         id="text1280-6"
+         y="-1120.8007"
+         x="1100.2721"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:153.89186096px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.06105185"
+         xml:space="preserve"><tspan
+           style="stroke-width:2.06105185"
+           y="-1120.8007"
+           x="1100.2721"
+           id="tspan1278-9"
+           sodipodi:role="line">Chemische Verfahrenstechnik</tspan></text>
+      <g
+         transform="translate(-1.204e-4,759.7488)"
+         id="g1336-6">
+        <path
+           style="opacity:1;fill:#941680;fill-opacity:1;stroke:#941680;stroke-width:14.38223648;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 965.2096,-1998.0595 c 12.1052,29.1048 37.8488,51.6095 43.9081,83.351 3.3746,17.6792 -2.3199,39.2147 -19.7351,47.4891 -22.8925,10.8769 -50.4802,2.4411 -61.6126,-20.7135 -6.4916,-13.502 -5.8518,-30.0518 -1.0315,-43.2807 8.8756,-24.3584 27.5731,-43.4789 38.4711,-66.8459 z"
+           id="path1195-6-8-19-1-8-0-8"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="162.80484"
+           inkscape:export-ydpi="162.80484" />
+        <path
+           style="opacity:1;fill:none;stroke:#ffffff;stroke-width:14.38223648;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 943.9132,-1907.2057 c 2.4571,12.2124 9.6651,19.3935 19.5768,20.0853"
+           id="path1197-5-7-07-7-1-9-2"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="162.80484"
+           inkscape:export-ydpi="162.80484" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="PROCESS_01"
+     transform="translate(-1061.2959,-9085.9931)"
+     style="display:inline">
+    <rect
+       ry="0"
+       y="-1816.2007"
+       x="846.64166"
+       height="1171.6921"
+       width="2789.9824"
+       id="rect1916-1-9-1-1-0"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25800037;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <g
+       id="g1350-79"
+       transform="translate(0,-464.48775)">
+      <text
+         id="text1280-9"
+         y="-1120.8007"
+         x="1100.2721"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:153.89186096px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.06105185"
+         xml:space="preserve"><tspan
+           style="stroke-width:2.06105185"
+           y="-1120.8007"
+           x="1100.2721"
+           id="tspan1278-4"
+           sodipodi:role="line">Chemische Verfahrenstechnik</tspan></text>
+      <g
+         transform="translate(-1.204e-4,759.7488)"
+         id="g1336-7">
+        <path
+           style="opacity:1;fill:#941680;fill-opacity:1;stroke:#941680;stroke-width:14.38223648;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 965.2096,-1998.0595 c 12.1052,29.1048 37.8488,51.6095 43.9081,83.351 3.3746,17.6792 -2.3199,39.2147 -19.7351,47.4891 -22.8925,10.8769 -50.4802,2.4411 -61.6126,-20.7135 -6.4916,-13.502 -5.8518,-30.0518 -1.0315,-43.2807 8.8756,-24.3584 27.5731,-43.4789 38.4711,-66.8459 z"
+           id="path1195-6-8-19-1-8-0-7"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="162.80484"
+           inkscape:export-ydpi="162.80484" />
+        <path
+           style="opacity:1;fill:none;stroke:#ffffff;stroke-width:14.38223648;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 943.9132,-1907.2057 c 2.4571,12.2124 9.6651,19.3935 19.5768,20.0853"
+           id="path1197-5-7-07-7-1-9-29"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="162.80484"
+           inkscape:export-ydpi="162.80484" />
+      </g>
+    </g>
   </g>
 </svg>
