@@ -80,6 +80,10 @@ inkscape Logo_Ideas.svg --export-id="Reactors" --export-filename="Subsymbole/Rea
 inkscape Logo_Ideas.svg --export-id="Reactors" --export-filename="Subsymbole/Reactors.png" --export-type="png" 2> /dev/null
 inkscape Logo_Ideas.svg --export-id="Reactors" --export-filename="Subsymbole/Reactors.svg" --export-type="svg" 2> /dev/null
 
+inkscape Logo_Ideas.svg --export-id="Process_all" --export-filename="Subsymbole/Process_all.pdf" --export-type="pdf" 2> /dev/null
+inkscape Logo_Ideas.svg --export-id="Process_all" --export-filename="Subsymbole/Process_all.png" --export-type="png" 2> /dev/null
+inkscape Logo_Ideas.svg --export-id="Process_all" --export-filename="Subsymbole/Process_all.svg" --export-type="svg" 2> /dev/null
+
 inkscape Logo_Ideas.svg --export-id="Hexagon" --export-filename="Subsymbole/Hexagon.pdf" --export-type="pdf" 2> /dev/null
 inkscape Logo_Ideas.svg --export-id="Hexagon" --export-filename="Subsymbole/Hexagon.png" --export-type="png" 2> /dev/null
 inkscape Logo_Ideas.svg --export-id="Hexagon" --export-filename="Subsymbole/Hexagon.svg" --export-type="svg" 2> /dev/null
